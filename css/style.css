@@ -835,11 +835,16 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services{
+  margin-top: 4px;
+}
 .services .icon-box {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   background: #fff;
+  margin-bottom: 10px;
+ 
 }
 
 .services .icon-box .icon {
